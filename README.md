@@ -2,7 +2,13 @@
 
 Protótipo independente para apresentação, com dados e nomes fictícios. Não usa banco, autenticação ou APIs do HUB. Nenhum arquivo ou mensagem é enviado a serviços externos.
 
-## Abrir
+## Acesso público
+
+https://convergemarketingcompany.github.io/portal-cliente-conceito/
+
+Publicado pelo GitHub Pages a partir da branch `main`, na raiz deste repositório. Atualizações enviadas para este repositório atualizam apenas a demonstração; não publicam o HUB.
+
+## Abrir localmente
 
 Abra `index.html` no navegador, ou execute nesta pasta:
 
