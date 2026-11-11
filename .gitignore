@@ -1,0 +1,8 @@
+.DS_Store
+*.zip
+portal-cliente-converge/
+telas/
+scripts/
+AGENTS.md
+.env*
+*secrets*
